@@ -1,4 +1,4 @@
-﻿Price on site,Sale/Rent,Rent type,Min price,Max price,Zip code,Site
+Price on site,Sale/Rent,Rent type,Min price,Max price,Zip code,Site
 "$1,199/mo",Rent,Monthly,1199,1199,84121,Trulia
 "$1,350/mo",Rent,Monthly,1350,1350,84121,Trulia
 "$1,995/mo",Rent,Monthly,1995,1995,84121,Trulia
@@ -106,7 +106,7 @@ $630+ /month,Rent,Monthly,630,,47715,Realtor
 $665+ /month,Rent,Monthly,665,,47715,Realtor
 $679+ /month,Rent,Monthly,679,,47714,Realtor
 $596+ /month,Rent,Monthly,596,,47714,Realtor
-$765+ /month,Rent,Monthly,0,0,47715,Realtor
+$765+ /month,Rent,Monthly,765,0,47715,Realtor
 $630+ /month,Rent,Monthly,630,,47715,Realtor
 $429+ /month,Rent,Monthly,429,,47714,Realtor
 $545+ /month,Rent,Monthly,545,,47715,Realtor
@@ -175,7 +175,7 @@ $719/mo,Rent,Monthly,719,719,49684,Zillow
 "$11,000/mo",Rent,Monthly,11000,11000,94115,Zillow
 "$19,500/mo",Rent,Monthly,19500,19500,94115,Zillow
 "$3,242/mo",Rent,Monthly,3242,3242,20020,Zillow
-"$2,985/mo",Rent,Monthly,2985,2985,07306,Zillow
+"$2,985/mo",Rent,Monthly,2985,2985,7306,Zillow
 "$3,575/mo",Rent,Monthly,3575,3575,20002,Zillow
 "$3,900/mo",Rent,Monthly,3900,3900,94116,Zillow
 "$2,250/mo",Rent,Monthly,2250,2250,94116,Zillow
@@ -315,16 +315,16 @@ Contact For Price,Rent,Monthly,0,0,20002,Trulia
 $700/mo,Rent,Monthly,700,700,49783,Trulia
 $601/mo,Rent,Monthly,601,601,49783,Trulia
 $443 - $591/mo,Rent,Monthly,443,591,49783,Trulia
-"$2,000/mo",Rent,Monthly,2000,2000,07306,Trulia
-"$1,450/mo",Rent,Monthly,1450,1450,07306,Trulia
-"$1,200/mo",Rent,Monthly,1200,1200,07306,Trulia
-"$1,174/mo",Rent,Monthly,1174,1174,07306,Trulia
-"$2,078 - $5,486/mo",Rent,Monthly,2078,5486,07306,Trulia
-"$1,750 - $2,400/mo",Rent,Monthly,1750,2400,07306,Trulia
-"$1,700 - $3,400/mo",Rent,Monthly,1700,3400,07306,Trulia
-$885/mo,Rent,Monthly,885,885,07306,Trulia
-$800/mo,Rent,Monthly,800,800,07306,Trulia
-$760/mo,Rent,Monthly,760,760,07306,Trulia
+"$2,000/mo",Rent,Monthly,2000,2000,7306,Trulia
+"$1,450/mo",Rent,Monthly,1450,1450,7306,Trulia
+"$1,200/mo",Rent,Monthly,1200,1200,7306,Trulia
+"$1,174/mo",Rent,Monthly,1174,1174,7306,Trulia
+"$2,078 - $5,486/mo",Rent,Monthly,2078,5486,7306,Trulia
+"$1,750 - $2,400/mo",Rent,Monthly,1750,2400,7306,Trulia
+"$1,700 - $3,400/mo",Rent,Monthly,1700,3400,7306,Trulia
+$885/mo,Rent,Monthly,885,885,7306,Trulia
+$800/mo,Rent,Monthly,800,800,7306,Trulia
+$760/mo,Rent,Monthly,760,760,7306,Trulia
 "$1,950/mo",Rent,Monthly,1950,1950,79911,Trulia
 "$1,700/mo",Rent,Monthly,1700,1700,79911,Trulia
 "$31,000/mo",Rent,Monthly,31000,31000,92118,Trulia
@@ -384,7 +384,7 @@ $75.36 SF/YR,Rent,SF rent,75.36,75.36,94022,LoopNet
 $20.00 - $22.00 SF/YR,Rent,SF rent,20,22,50023,LoopNet
 $24.67 SF/YR,Rent,SF rent,24.67,24.67,72112,LoopNet
 $18.00 - $20.00 SF/YR,Rent,SF rent,18,20,24018,LoopNet
-$36.00 - $36.50 SF/YR,Rent,SF rent,36,36.5,07306,LoopNet
+$36.00 - $36.50 SF/YR,Rent,SF rent,36,36.5,7306,LoopNet
 "$1,450/mo",Rent,Monthly,1450,1450,84121,Trulia
 $8.96 SF/YR,Rent,SF rent,8.96,8.96,24018,LoopNet
 $38.50 SF/YR,Rent,SF rent,38.5,38.5,20008,LoopNet
@@ -471,7 +471,7 @@ $18.50 SF/YR,Rent,SF rent,18.5,18.5,24018,LoopNet
 $5.00 - $8.00 SF/YR,Rent,SF rent,5,8,40391,LoopNet
 "$1,200/mo",Rent,Monthly,1200,1200,84121,Trulia
 "$2,875 /month",Rent,Monthly,2875,2875,90038,Realtor
-$20.00 - $50.00 SF/YR,Rent,SF rent,20,50,07306,LoopNet
+$20.00 - $50.00 SF/YR,Rent,SF rent,20,50,7306,LoopNet
 "$2,400 /month",Rent,Monthly,2400,2400,90038,Realtor
 "$18,500 /month",Rent,Monthly,18500,18500,90038,Realtor
 "$3,695 /month",Rent,Monthly,3695,3695,90038,Realtor
@@ -497,7 +497,7 @@ $16.00 SF/YR,Rent,SF rent,16,16,24018,LoopNet
 $20.73 SF/YR,Rent,SF rent,20.73,20.73,23220,LoopNet
 $15.00 SF/YR,Rent,SF rent,15,15,50023,LoopNet
 "$3,995+ /month",Rent,Monthly,3995,,90038,Realtor
-$41.14 SF/YR,Rent,SF rent,41.14,41.14,07306,LoopNet
+$41.14 SF/YR,Rent,SF rent,41.14,41.14,7306,LoopNet
 $10.75 SF/YR,Rent,SF rent,10.75,10.75,65806,LoopNet
 $18.00 SF/YR,Rent,SF rent,18,18,49783,LoopNet
 $25.80 SF/YR,Rent,SF rent,25.8,25.8,90503,LoopNet

@@ -1,0 +1,29 @@
+{
+    "root": "/home/pasha/Desktop/seq2seq_lstm_parsing",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/pavloshargan/seq2seq_lstm_parsing.git",
+        "commit": "7fb3f2274ceee801eb5cc619b7e3357e1d0543ab"
+    },
+    "email": "pavel.shargan@gmail.com",
+    "startedAt": "2020-08-11T08:35:29.944772",
+    "host": "nick-Z97P-D3",
+    "username": "pasha",
+    "executable": "/usr/bin/python3",
+    "os": "Linux-5.4.0-42-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "gpu": "GeForce GTX 1060 6GB",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": "10.1.243",
+    "args": [
+        "-f",
+        "/home/pasha/.local/share/jupyter/runtime/kernel-ce9951d7-488c-42d3-a928-16a100456305.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "curious-frost-116",
+    "project": "seq2seq_lstm_parsing",
+    "heartbeatAt": "2020-08-11T10:24:52.502650"
+}
